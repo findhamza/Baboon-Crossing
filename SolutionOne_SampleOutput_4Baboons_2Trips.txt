@@ -1,0 +1,73 @@
+Which Solution do you want to run? ('1' for solution one, '2' for solution two)
+1
+Which Solution do you want to run? ('1' for solution one, '2' for solution two)
+1
+Number of baboons in the baboon clan?
+4
+How many times should they cross? (0 = infinite times)
+2
+!! Baboon 0 is wanting to cross to the left side||
+
+!! Baboon 3 is wanting to cross to the left side||
+
+!! Baboon 1 is wanting to cross to the right side||
+
+!! Baboon 2 is wanting to cross to the left side||
+
+>>> Baboon 2 is done crossing to the left side, it took 1 seconds to cross. <<<
+
+-... 2 baboon on left and 1 on the right ...-
+
+!! Baboon 2 is wanting to cross to the right side||
+
+>>> Baboon 3 is done crossing to the left side, it took 1 seconds to cross. <<<
+
+-... 1 baboon on left and 2 on the right ...-
+
+!! Baboon 3 is wanting to cross to the right side||
+
+>>> Baboon 2 is done crossing to the right side, it took 1 seconds to cross. <<<
+
+-... 1 baboon on left and 2 on the right ...-
+
+*** Baboon 2 is done crossing and is now on right side ***
+1 baboon on left and 3 on the right!
+
+>>> Baboon 3 is done crossing to the right side, it took 1 seconds to cross. <<<
+
+-... 1 baboon on left and 2 on the right ...-
+
+*** Baboon 3 is done crossing and is now on right side ***
+1 baboon on left and 3 on the right!
+
+>>> Baboon 1 is done crossing to the right side, it took 8 seconds to cross. <<<
+
+-... 1 baboon on left and 2 on the right ...-
+
+>> 0 baboon crossing left and 1 crossing to the right! <<
+
+!! Baboon 1 is wanting to cross to the left side||
+
+>>> Baboon 0 is done crossing to the left side, it took 9 seconds to cross. <<<
+
+-... 1 baboon on left and 2 on the right ...-
+
+!! Baboon 0 is wanting to cross to the right side||
+
+>>> Baboon 1 is done crossing to the left side, it took 8 seconds to cross. <<<
+
+-... 0 baboon on left and 3 on the right ...-
+
+>> 1 baboon crossing left and 0 crossing to the right! <<
+
+*** Baboon 1 is done crossing and is now on left side ***
+1 baboon on left and 3 on the right!
+
+>>> Baboon 0 is done crossing to the right side, it took 9 seconds to cross. <<<
+
+-... 1 baboon on left and 2 on the right ...-
+
+>> 0 baboon crossing left and 0 crossing to the right! <<
+
+*** Baboon 0 is done crossing and is now on right side ***
+1 baboon on left and 3 on the right!
